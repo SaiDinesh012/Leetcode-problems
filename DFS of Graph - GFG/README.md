@@ -1,4 +1,4 @@
-# DFS of Graph
+## DFS of Graph
 ## Easy
 <div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">You are given a connected undirected graph. Perform a Depth First Traversal of the graph.</span><br><span style="font-size: 18px;"><strong>Note: </strong>Use a recursive approach to</span><span style="font-size: 18px;">&nbsp;find the DFS traversal of the graph starting from the 0th vertex from left to right according to the graph.</span></p>
 <p><br><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
